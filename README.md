@@ -77,4 +77,4 @@ available to authorized personnel. By hosting our database on
 a server, we can ensure that our data is secure, and backups 
 are taken regularly to prevent data loss. Additionally, our 
 server provides high availability and redundancy, ensuring 
-that our data is always accessible, and there is no downtime
+that our data is always accessible, and there is no downtime.
